@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "CureX",
-    "slug": "CureX",
+    "entryPoint": "./App.js",
+    "name": "med",
+    "slug": "med",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
